@@ -1,0 +1,139 @@
+body {
+    color: darkmagenta;
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    height: 0;
+    width: 5%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    margin-top: 5%;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 300%;
+    color: purple;
+}
+
+h2 {
+    color: purple;
+    padding: 1% 0;
+}
+
+h3 {
+    color: purple;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.top-para {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 200%;
+    color: purple;
+    font-weight: normal;
+}
+
+.TopDiv {
+    background-color: plum;
+    position: relative;
+    padding-top: 5%;
+}
+
+.MidDiv {}
+
+.BottomDiv {}
+
+.skill-row {
+    margin: 50px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.contact-me {
+    background-color: plum;
+    padding: 10px;
+}
+
+.contact-para {
+    width: 30%;
+    margin: auto;
+}
+
+.top_gear {
+    background-color: plum;
+    height: 11%;
+    width: 7%;
+    position: absolute;
+    right: 20%;
+    top: 5%;
+}
+
+.bottom_gear {
+    background-color: plum;
+    height: 11%;
+    width: 7%;
+    position: absolute;
+    left: 20%;
+    bottom: 50%;
+}
+
+.work_img {
+    height: 2400%;
+    width: 40%;
+}
+
+.IT {
+    text-decoration: underline;
+}
+
+.Name {
+    position: relative;
+}
+
+.MyImage {
+    height: 5rem;
+    width: 5rem;
+    padding: 2rem;
+}
+
+.contact-img {
+    height: 2rem;
+    width: 2rem;
+    padding: 1rem 0rem;
+}
+
+.skill-img {
+    width: 20rem;
+    height: 15rem;
+    margin-bottom: 0;
+}
+
+.tag-img {
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+}
+
+.code-img {
+    width: 25%;
+    float: right;
+    margin: 10px;
+}
+
+.divset {
+    border-radius: 50%;
+}
